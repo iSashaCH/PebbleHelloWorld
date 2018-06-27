@@ -1,0 +1,21 @@
+{
+    "author": "oleks.chernenko@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "hello-world",
+    "pebble": {
+        "displayName": "Hello World",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "uuid": "4929effe-a123-4777-b7ca-0f0598be2e49",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
